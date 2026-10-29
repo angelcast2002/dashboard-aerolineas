@@ -3,4 +3,3 @@ plotly
 pandas
 numpy
 scikit-learn
-pyodbc
