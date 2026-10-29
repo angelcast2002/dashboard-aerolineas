@@ -1,0 +1,113 @@
+﻿codigo,nombre,anio,vuelos,tipo
+AA,American Airlines,2004,698548.0,Real
+AA,American Airlines,2005,673569.0,Real
+AA,American Airlines,2006,643597.0,Real
+AA,American Airlines,2007,633857.0,Real
+AA,American Airlines,2008,606381.5,Proyectado
+AA,American Airlines,2009,583977.0,Proyectado
+AA,American Airlines,2010,561572.5,Proyectado
+AS,Alaska Airlines,2004,166992.0,Real
+AS,Alaska Airlines,2005,158100.0,Real
+AS,Alaska Airlines,2006,159404.0,Real
+AS,Alaska Airlines,2007,160185.0,Real
+AS,Alaska Airlines,2008,156391.0,Proyectado
+AS,Alaska Airlines,2009,154479.2999999998,Proyectado
+AS,Alaska Airlines,2010,152567.6000000001,Proyectado
+B6,JetBlue Airways,2004,89834.0,Real
+B6,JetBlue Airways,2005,111050.0,Real
+B6,JetBlue Airways,2006,155732.0,Real
+B6,JetBlue Airways,2007,191450.0,Real
+B6,JetBlue Airways,2008,224399.0,Proyectado
+B6,JetBlue Airways,2009,259352.0,Proyectado
+B6,JetBlue Airways,2010,294305.0,Proyectado
+CO,Continental Air Lines,2004,299329.0,Real
+CO,Continental Air Lines,2005,296661.0,Real
+CO,Continental Air Lines,2006,309389.0,Real
+CO,Continental Air Lines,2007,323151.0,Real
+CO,Continental Air Lines,2008,328181.0,Proyectado
+CO,Continental Air Lines,2009,336600.3999999985,Proyectado
+CO,Continental Air Lines,2010,345019.80000000075,Proyectado
+DL,Delta Air Lines,2004,687638.0,Real
+DL,Delta Air Lines,2005,658302.0,Real
+DL,Delta Air Lines,2006,506086.0,Real
+DL,Delta Air Lines,2007,475889.0,Real
+DL,Delta Air Lines,2008,385113.0,Proyectado
+DL,Delta Air Lines,2009,306366.6999999881,Proyectado
+DL,Delta Air Lines,2010,227620.40000000596,Proyectado
+EV,Atlantic Southeast Airlines,2004,278861.0,Real
+EV,Atlantic Southeast Airlines,2005,304647.0,Real
+EV,Atlantic Southeast Airlines,2006,273143.0,Real
+EV,Atlantic Southeast Airlines,2007,286234.0,Real
+EV,Atlantic Southeast Airlines,2008,283375.00000000023,Proyectado
+EV,Atlantic Southeast Airlines,2009,282436.50000000023,Proyectado
+EV,Atlantic Southeast Airlines,2010,281498.00000000023,Proyectado
+FL,AirTran Airways,2004,162558.0,Real
+FL,AirTran Airways,2005,195392.0,Real
+FL,AirTran Airways,2006,237645.0,Real
+FL,AirTran Airways,2007,263159.0,Real
+FL,AirTran Airways,2008,300702.5,Proyectado
+FL,AirTran Airways,2009,335108.09999999404,Proyectado
+FL,AirTran Airways,2010,369513.700000003,Proyectado
+HA,Hawaiian Airlines,2004,48077.0,Real
+HA,Hawaiian Airlines,2005,48183.0,Real
+HA,Hawaiian Airlines,2006,52173.0,Real
+HA,Hawaiian Airlines,2007,56175.0,Real
+HA,Hawaiian Airlines,2008,58223.0,Proyectado
+HA,Hawaiian Airlines,2009,61051.40000000037,Proyectado
+HA,Hawaiian Airlines,2010,63879.799999999814,Proyectado
+MQ,American Eagle Airlines,2004,483088.0,Real
+MQ,American Eagle Airlines,2005,532032.0,Real
+MQ,American Eagle Airlines,2006,550088.0,Real
+MQ,American Eagle Airlines,2007,540494.0,Real
+MQ,American Eagle Airlines,2008,573994.0,Proyectado
+MQ,American Eagle Airlines,2009,593021.3999999985,Proyectado
+MQ,American Eagle Airlines,2010,612048.799999997,Proyectado
+NW,Northwest Airlines,2004,507286.0,Real
+NW,Northwest Airlines,2005,480832.0,Real
+NW,Northwest Airlines,2006,432880.0,Real
+NW,Northwest Airlines,2007,414526.0,Real
+NW,Northwest Airlines,2008,377323.0,Proyectado
+NW,Northwest Airlines,2009,344699.799999997,Proyectado
+NW,Northwest Airlines,2010,312076.6000000015,Proyectado
+OH,Comair,2004,373346.0,Real
+OH,Comair,2005,381337.0,Real
+OH,Comair,2006,278099.0,Real
+OH,Comair,2007,233787.0,Real
+OH,Comair,2008,186163.5,Proyectado
+OH,Comair,2009,133972.0,Proyectado
+OH,Comair,2010,81780.5,Proyectado
+OO,Skywest Airlines,2004,463448.0,Real
+OO,Skywest Airlines,2005,517454.0,Real
+OO,Skywest Airlines,2006,548109.0,Real
+OO,Skywest Airlines,2007,597882.0,Real
+OO,Skywest Airlines,2008,640212.5,Proyectado
+OO,Skywest Airlines,2009,683608.200000003,Proyectado
+OO,Skywest Airlines,2010,727003.900000006,Proyectado
+UA,United Air Lines,2004,555812.0,Real
+UA,United Air Lines,2005,485918.0,Real
+UA,United Air Lines,2006,500008.0,Real
+UA,United Air Lines,2007,490002.0,Real
+UA,United Air Lines,2008,462100.0,Proyectado
+UA,United Air Lines,2009,443766.0,Proyectado
+UA,United Air Lines,2010,425432.0,Proyectado
+US,US Airways,2004,419919.0,Real
+US,US Airways,2005,425609.0,Real
+US,US Airways,2006,504844.0,Real
+US,US Airways,2007,485447.0,Real
+US,US Airways,2008,527909.5,Proyectado
+US,US Airways,2009,555491.3999999985,Proyectado
+US,US Airways,2010,583073.299999997,Proyectado
+WN,Southwest Airlines,2004,990404.0,Real
+WN,Southwest Airlines,2005,1036034.0,Real
+WN,Southwest Airlines,2006,1099321.0,Real
+WN,Southwest Airlines,2007,1168871.0,Real
+WN,Southwest Airlines,2008,1223329.5,Proyectado
+WN,Southwest Airlines,2009,1283198.299999997,Proyectado
+WN,Southwest Airlines,2010,1343067.099999994,Proyectado
+XE,Expressjet Airlines,2004,367703.0,Real
+XE,Expressjet Airlines,2005,403767.0,Real
+XE,Expressjet Airlines,2006,441470.0,Real
+XE,Expressjet Airlines,2007,434773.0,Real
+XE,Expressjet Airlines,2008,471656.5,Proyectado
+XE,Expressjet Airlines,2009,495547.799999997,Proyectado
+XE,Expressjet Airlines,2010,519439.1000000015,Proyectado
