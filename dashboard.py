@@ -13,6 +13,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 # ============================ CONFIGURACIÓN ============================
+# URL: https://aerolineas-uvg-bg.streamlit.app/
 DSN = "HiveQuickstart"
 BASE_HIVE = "vuelos_db"
 TABLAS = ["res_aerolinea_anio", "res_causas", "res_flota"]
